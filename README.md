@@ -1,3 +1,6 @@
+[![Twitter: Slahser](https://img.shields.io/twitter/follow/Slahser?style=social)](https://twitter.com/Slahser)
+[![Linkedin: Slahser](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/slahser/)
+[![GitHub Slahser](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Slahser)
 
 Hi there.
 
