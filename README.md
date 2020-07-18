@@ -8,3 +8,5 @@ Hi there.
 - :cyclone: Reach me at [slahser.com](https://www.slahser.com).
 - :curly_loop: [DBAD License](https://dbad-license.org/) Backer.
 - :smiling_imp: Don't care about other things about me. 
+
+![](https://github-readme-stats.vercel.app/api?username=slahser&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
