@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=Github)](https://github.com/Slahser)
 [![HitCount](http://hits.dwyl.com/Slahser/Slahser.svg)](http://hits.dwyl.com/Slahser/Slahser)
 
-Hi there.
+Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">.
 
 - :star2: Here's S1ahs3r.
 - :cyclone: Reach me at [slahser.com](https://www.slahser.com).
