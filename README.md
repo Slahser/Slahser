@@ -1,8 +1,8 @@
-[![Twitter: S1ahs3r](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/S1ahs3r)](https://twitter.com/S1ahs3r)
-[![Linkedin: Slahser](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slahser/)](https://www.linkedin.com/in/slahser/)
-[![GitHub Slahser](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Slahser)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@S1ahs3r/)](https://medium.com/@S1ahs3r/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skyslahser@gmail.com)](mailto:skyslahser@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/S1ahs3r)](https://twitter.com/S1ahs3r)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slahser/)](https://www.linkedin.com/in/slahser/)
+[![Medium](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@S1ahs3r/)](https://medium.com/@S1ahs3r/)
+[![Gmail](https://img.shields.io/badge/-Gmail?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skyslahser@gmail.com)](mailto:skyslahser@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Slahser)
 [![HitCount](http://hits.dwyl.com/Slahser/Slahser.svg)](http://hits.dwyl.com/Slahser/Slahser)
 
 Hi there.
