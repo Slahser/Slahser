@@ -4,9 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slahser/)](https://www.linkedin.com/in/slahser/)
 [![GitHub](https://img.shields.io/badge/-Linkedin-000?style=flat-square&logo=Github)](https://github.com/Slahser)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=slahser&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
-
 Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">.
 
 - :star2: Here's S1ahs3r.
